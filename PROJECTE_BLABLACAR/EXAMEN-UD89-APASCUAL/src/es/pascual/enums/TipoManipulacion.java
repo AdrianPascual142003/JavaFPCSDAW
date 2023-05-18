@@ -1,0 +1,5 @@
+package es.pascual.enums;
+
+public enum TipoManipulacion {
+    PROCESO_MANUAL, PASADO_POR_PLANCHA, ASADO_AL_HORNO, COCCION_EN_OLLA_ELECTRICA, COCCION_EN_OLLA_EXPRESS
+}
